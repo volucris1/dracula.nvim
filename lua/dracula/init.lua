@@ -221,7 +221,7 @@ M.apply = function()
 	highlight("TSStructure", colors.purple, nil, nil, nil)
 	highlight("TSInclude", colors.pink, nil, nil, nil)
 
-	highlight("TSVariable", colors.fg, nil, nil, nil)
+	highlight("TSVariable", colors.purple, nil, nil, nil)
 	highlight("TSVariableBuiltin", colors.purple, nil, nil, nil)
 
   highlight("TSText", colors.orange, nil, nil, nil)
